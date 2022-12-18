@@ -1,0 +1,366 @@
+# Copyright (C) 2022 Book Search
+# This file is distributed under the same license as the Book Search package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Book Search 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/qs_tool_wp_pot_gen_1671266381_8139_277337\n"
+"POT-Creation-Date: 2022-12-17 08:39:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class-book-search-public.php:41
+msgid "Book Search"
+msgstr ""
+
+#: class-book-search-public.php:44
+msgid "Name"
+msgstr ""
+
+#: class-book-search-public.php:48 class-book-search-public.php:196
+msgid "Author"
+msgstr ""
+
+#: class-book-search-public.php:52 class-book-search-public.php:197
+msgid "Publisher"
+msgstr ""
+
+#: class-book-search-public.php:69 class-book-search-public.php:198
+msgid "Rating"
+msgstr ""
+
+#: class-book-search-public.php:78 class-book-search-public.php:195
+msgid "Price"
+msgstr ""
+
+#: class-book-search-public.php:88
+msgid "Search"
+msgstr ""
+
+#: class-book-search-public.php:193
+msgid "No."
+msgstr ""
+
+#: class-book-search-public.php:194
+msgid "Book Name"
+msgstr ""
+
+#: class-book-search-public.php:236
+msgid "No books found"
+msgstr ""
+
+#: class-book-search-public.php:265 class-book-search-public.php:267
+msgid "Previous"
+msgstr ""
+
+#: class-book-search-public.php:280 class-book-search-public.php:282
+msgid "Next"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Book Search"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/dixitpujara/md-codechallenge"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Search and Filtering system for Book with pagination."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dixit Pujara"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/dixitpujara"
+msgstr ""
+
+#: class-book-search-admin.php:36
+msgctxt "Post type general name"
+msgid "Books"
+msgstr ""
+
+#: class-book-search-admin.php:37
+msgctxt "Post type singular name"
+msgid "Book"
+msgstr ""
+
+#: class-book-search-admin.php:38
+msgctxt "Admin Menu text"
+msgid "Books"
+msgstr ""
+
+#: class-book-search-admin.php:39
+msgctxt "Add New on Toolbar"
+msgid "Book"
+msgstr ""
+
+#: class-book-search-admin.php:40
+msgid "Add Nem"
+msgstr ""
+
+#: class-book-search-admin.php:41
+msgid "Add New Book"
+msgstr ""
+
+#: class-book-search-admin.php:42
+msgid "New Book"
+msgstr ""
+
+#: class-book-search-admin.php:43
+msgid "Edit Book"
+msgstr ""
+
+#: class-book-search-admin.php:44
+msgid "View Book"
+msgstr ""
+
+#: class-book-search-admin.php:45
+msgid "All Books"
+msgstr ""
+
+#: class-book-search-admin.php:46
+msgid "Search Books"
+msgstr ""
+
+#: class-book-search-admin.php:47
+msgid "Parent Books:"
+msgstr ""
+
+#: class-book-search-admin.php:48
+msgid "No books found."
+msgstr ""
+
+#: class-book-search-admin.php:49
+msgid "No books found in Trash."
+msgstr ""
+
+#: class-book-search-admin.php:50
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Book Cover Image"
+msgstr ""
+
+#: class-book-search-admin.php:51
+msgctxt "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: class-book-search-admin.php:52
+msgctxt "Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: class-book-search-admin.php:53
+msgctxt "Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: class-book-search-admin.php:54
+msgctxt "The post type archive label used in nav menus. Default “Post Archives”. Added in 4.4"
+msgid "Book archives"
+msgstr ""
+
+#: class-book-search-admin.php:55
+msgctxt "Overrides the “Insert into post”/”Insert into page” phrase (used when inserting media into a post). Added in 4.4"
+msgid "Insert into book"
+msgstr ""
+
+#: class-book-search-admin.php:56
+msgctxt "Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this book"
+msgstr ""
+
+#: class-book-search-admin.php:57
+msgctxt "Screen reader text for the filter links heading on the post type listing screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter books list"
+msgstr ""
+
+#: class-book-search-admin.php:58
+msgctxt "Screen reader text for the pagination heading on the post type listing screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Books list navigation"
+msgstr ""
+
+#: class-book-search-admin.php:59
+msgctxt "Screen reader text for the items list heading on the post type listing screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Books list"
+msgstr ""
+
+#: class-book-search-admin.php:86
+msgctxt "taxonomy general name"
+msgid "Authors"
+msgstr ""
+
+#: class-book-search-admin.php:87
+msgctxt "taxonomy singular name"
+msgid "Author"
+msgstr ""
+
+#: class-book-search-admin.php:88
+msgid "Author"
+msgstr ""
+
+#: class-book-search-admin.php:89
+msgid "All Authors"
+msgstr ""
+
+#: class-book-search-admin.php:90
+msgid "Parent Author"
+msgstr ""
+
+#: class-book-search-admin.php:91
+msgid "Parent Author:"
+msgstr ""
+
+#: class-book-search-admin.php:92
+msgid "New Author Name"
+msgstr ""
+
+#: class-book-search-admin.php:93
+msgid "Add New Author"
+msgstr ""
+
+#: class-book-search-admin.php:94
+msgid "Edit Author"
+msgstr ""
+
+#: class-book-search-admin.php:95
+msgid "Update Author"
+msgstr ""
+
+#: class-book-search-admin.php:96
+msgid "View Author"
+msgstr ""
+
+#: class-book-search-admin.php:97
+msgid "Separate authors with commas"
+msgstr ""
+
+#: class-book-search-admin.php:98
+msgid "Add or remove authors"
+msgstr ""
+
+#: class-book-search-admin.php:99 class-book-search-admin.php:135
+msgid "Choose from the most used"
+msgstr ""
+
+#: class-book-search-admin.php:100
+msgid "Popular Authors"
+msgstr ""
+
+#: class-book-search-admin.php:101
+msgid "Search Authors"
+msgstr ""
+
+#: class-book-search-admin.php:102 class-book-search-admin.php:138
+msgid "Not Found"
+msgstr ""
+
+#: class-book-search-admin.php:103
+msgid "No authors"
+msgstr ""
+
+#: class-book-search-admin.php:104
+msgid "Authors list"
+msgstr ""
+
+#: class-book-search-admin.php:105
+msgid "Authors list navigation"
+msgstr ""
+
+#: class-book-search-admin.php:122
+msgctxt "taxonomy general name"
+msgid "Publishers"
+msgstr ""
+
+#: class-book-search-admin.php:123
+msgctxt "taxonomy singular name"
+msgid "Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:124
+msgid "Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:125
+msgid "All Publishers"
+msgstr ""
+
+#: class-book-search-admin.php:126
+msgid "Parent Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:127
+msgid "Parent Publisher:"
+msgstr ""
+
+#: class-book-search-admin.php:128
+msgid "New Publisher Name"
+msgstr ""
+
+#: class-book-search-admin.php:129
+msgid "Add New Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:130
+msgid "Edit Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:131
+msgid "Update Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:132
+msgid "View Publisher"
+msgstr ""
+
+#: class-book-search-admin.php:133
+msgid "Separate publishers with commas"
+msgstr ""
+
+#: class-book-search-admin.php:134
+msgid "Add or remove publishers"
+msgstr ""
+
+#: class-book-search-admin.php:136
+msgid "Popular Publishers"
+msgstr ""
+
+#: class-book-search-admin.php:137
+msgid "Search Publishers"
+msgstr ""
+
+#: class-book-search-admin.php:139
+msgid "No publishers"
+msgstr ""
+
+#: class-book-search-admin.php:140
+msgid "Publishers list"
+msgstr ""
+
+#: class-book-search-admin.php:141
+msgid "Publishers list navigation"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Book Search"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/dixitpujara/md-codechallenge"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Search and Filtering system for Book with pagination."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dixit Pujara"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/dixitpujara"
+msgstr ""

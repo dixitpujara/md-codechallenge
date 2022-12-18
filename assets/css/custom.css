@@ -1,0 +1,42 @@
+/* Search Form related styles*/
+.book-search-section {border: 1px solid #ccc;padding: 20px;}
+.book-search-section .book_search_title {font-size: 20px;text-align: center;margin: 0;}
+.book-search-section .book_search_title {padding-bottom: 20;}
+.book-search-section #search-form {display: flex;flex-wrap: wrap;justify-content: space-between;}
+.book-search-section #search-form .fieldset {width: 48%;display: flex;padding: 6px 0;align-items: center;justify-content: space-between;}
+.book-search-section #search-form .fieldset label {font-size:14px;width: 80px;display: block;}
+.book-search-section #search-form .fieldset input, .book-search-section #search-form .fieldset select {width: calc(100% - 100px);border-radius: 0;min-height: 28px;box-shadow: none;outline: none;border: 1px solid #000;}
+
+.book-search-section #search-form .book-price-field {width: 100%;}
+.book-search-section #search-form .book-price-field input {width: 100%;}
+.book-search-section #search-form .book-price-field .irs--round .irs-bar {background-color: #000;}
+.book-search-section #search-form .book-price-field .irs--round .irs-handle {background-color: #000;border-color: #000;box-shadow: 0px 0px 0px 5px rgba(0, 0, 0, 0.2);}
+.book-search-section #search-form .book-price-field .irs--round .irs-handle.state_hover, .irs--round .irs-handle:hover {background-color: #000;}
+.book-search-section #search-form .book-price-field .irs--round .irs-handle {width: 16px;height: 16px;top: 29px}
+.book-search-section #search-form .book-price-field .irs--round .irs-from,.irs--round .irs-to,.irs--round .irs-single {background-color: transparent;color: #000;}
+.book-search-section #search-form .book-price-field .irs--round .irs-from:before,.irs--round .irs-to:before,.irs--round .irs-single:before,.irs--round .irs-min,.irs--round .irs-max {display: none;}
+.book-search-section #search-form .book-price-field .irs--round {width: calc(100% - 100px);}
+.book-search-section #search-form .book-submit-button {justify-content: center;margin-top: 15px;}
+.book-search-section form#search-form .book-submit-button {width:100%;text-align: center}
+.book-search-section form#search-form button.search-btn {padding: 15px 75px;background: #fff;cursor: pointer}
+.book-search-section form#search-form button.search-btn:hover{background: #000;color:#fff;}
+/*Search Result styles*/
+.book-search-result {text-align: center}
+.book-search-result .book-header, .book-search-result .book-record {display: flex;align-items: center;justify-content: space-between;padding: 5px;border-bottom: 1px solid #000;}
+.book-search-result .book-header span:first-child, .book-search-result .book-record span:first-child {width: 50px;}
+.book-search-result-section {display: none;padding: 20px;border: 1px solid #ccc;}
+.book-search-result .book-header span, .book-search-result .book-record span {width: 20%;font-size: 14px;color: #000;}
+.book-search-result .book-record {border-bottom: 0;}
+.book-search-result .book-header span {font-weight: 700;}
+.book-search-result .book-record span a {color: #000;text-decoration: none;}
+.book-search-result .book-search-pagination ul {margin: 0; padding: 0;}
+.book-search-result .book-search-pagination ul li {display: inline; margin: 3px; padding: 4px 8px; background: #FFF; color: black; }
+.book-search-result .book-search-pagination ul li.active:hover {cursor: pointer; background: #000; color: white; }
+.book-search-result .book-search-pagination ul li.inactive {display:none;}
+.book-search-result .book-search-pagination ul li.selected {background-color: #000; color: white;}
+.book-search-result .book-search-pagination {margin: 40px 0 15px;text-align: right;display: flex;justify-content: end;}
+.book-search-result .book-search-pagination ul {width: fit-content;padding: 0 10px;}
+.book-search-result .book-search-pagination ul li {margin: 0;}
+.book-search-result .book-search-pagination ul li {font-size: 14px;}
+.book-search-result .book-record .book-ratings {display: flex;align-items: center;justify-content: center;}
+.book-search-result .book-record .book-ratings svg {width: 14px;}
